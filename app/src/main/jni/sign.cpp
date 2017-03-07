@@ -5,7 +5,7 @@
 #include <jni.h>
 #include <string.h>
 #include <stdio.h>
-#include "com_wxmylife_jni_JNIUtils.h"
+#include "com_wxmylife_jni_JNIUtils.h" //导入.h头文件
 
 /**
  *这个key是和服务器之间通信的秘钥
