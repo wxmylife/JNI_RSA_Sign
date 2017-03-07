@@ -21,11 +21,11 @@
 1.配置ndk环境
 打开项目中Project Structure，配置ndk目录(如何下载，自行描述)
 
-[示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/img/1.png)
+![示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/img/1.png)
 
 2.配置app下的build.gradle
 
-[示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/img/2.png)
+![示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/img/2.png)
 
 3.修改项目下gradle.properties文件
 
@@ -52,7 +52,7 @@ public class JNIUtils {
 
 选择**Build**下的**Make Project**
 
-[示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/img/4.png)
+![示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/img/4.png)
 
 生成的class文件：
 
