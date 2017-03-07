@@ -183,9 +183,9 @@
 	
 	9. 完成效果
 	
-	| Item      |    Value | 
-	| :-------- | --------:| 
-	| ![示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/gif/b.png)  | ![示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/gif/b.png) | 
+	|     成功    |    失败  | 
+	|  :--------: | :--------:| 
+	| ![示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/gif/b.gif)  | ![示例图片](https://github.com/wxmylife/JNI_SignDemo/blob/master/gif/a.gif) | 
 	
 	
 	
