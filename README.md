@@ -1,9 +1,9 @@
-##Android JNI获取应用签名
+## Android JNI获取应用签名
 
-###一.前言：
+### 一.前言：
 >移动端数据加密，需要将RSA加密公钥存储，考虑到安全，现将公钥存在.so文件中，为了防止有人将.so文件拷贝使用，因此在里面验证app的签名，对比签名信息，如果正确，返回正确公钥。 
 
-###二.参考：
+### 二.参考：
 
 [Android JNI NDK C++ so本地验证 获取应用签名
 ](http://www.jianshu.com/p/289c0b227902?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
@@ -17,7 +17,7 @@
 [Android通过NDK获取Keystore签名值](http://blog.csdn.net/chenfeng0104/article/details/21641427)
 
 
-###三.集成：
+### 三.集成：
 1. 配置ndk环境
 
 	打开项目中Project Structure，配置ndk目录
